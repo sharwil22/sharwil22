@@ -24,7 +24,7 @@ Currently exploring **LangChain, LangGraph, RAG systems, LLM applications, and a
 
 ## 🚀 Featured Projects
 
-### 🤟 Indian Sign Language Recognition
+###  Indian Sign Language Recognition
 
 **Real-time ISL word detection using Deep Learning**
 
