@@ -1,4 +1,4 @@
-# Hi, I'm Sharwil Bhende 👋
+# Hi, I'm Sharwil Bhende 
 
 **AI/ML Engineer in the Making | Agentic AI | Generative AI | Computer Vision | C++**
 
